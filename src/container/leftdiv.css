@@ -1,0 +1,13 @@
+#logo {
+    width: 150px;
+    height: auto;
+    border-radius: 50%; /* Makes the image round */
+  }
+  .left{
+    background-color: rgb(100, 166, 224);
+    width: 250px;
+    padding: 10px;
+    height: 1500px;
+    position: fixed;
+  }
+ 

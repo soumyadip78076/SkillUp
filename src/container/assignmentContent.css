@@ -1,0 +1,25 @@
+.assignment_page h1{
+    padding-left: 450px;
+    margin-top: 40px;
+    font-weight: 400;
+}
+.problems{
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    gap: 50px;
+    padding-left: 200px;
+}
+
+.problems li {
+    list-style-type: none; /* Remove default list style */
+  }
+  
+  .assignment_page .problems li a {
+    text-decoration: none; /* Remove underline from links */
+    color: inherit; /* Use the default text color */
+  }
+  .assignment_page .problems li a:hover {
+    color: blue; /* Change text color on hover */
+  }
+    

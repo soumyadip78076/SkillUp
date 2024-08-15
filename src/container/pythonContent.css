@@ -1,0 +1,24 @@
+.python-content{
+    font-weight: bold;
+    font-size: large;
+    padding-left: 51px;
+}
+.python-main{
+    display: flex;
+    gap: 20px;
+}
+.python-main p{
+    font-weight: 500;  
+}
+  
+  .python-material-section {
+    margin-top: 50px; /* Add top margin to create a gap */
+  }
+
+.notes{
+  display: flex;
+  gap: 30px;
+}
+.notes p{
+  font-weight: 500; 
+}

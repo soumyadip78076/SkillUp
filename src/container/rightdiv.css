@@ -1,0 +1,19 @@
+.right_total{
+    background-color: rgb(41, 180, 175);
+    width: 1200px;
+    padding: 10px;
+    height: 1500px;
+    margin-left: 280px;
+  }
+  .academy-name p{
+    padding-left: 200px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+  
+}
+.course-source{
+    display: flex;
+    padding-left: 100px;
+    gap: 50px;
+}
